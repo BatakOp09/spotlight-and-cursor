@@ -1,2 +1,2 @@
 # spotlight-and-cursor
-https://batakop09.github.io/spotlight-and-cursor/
+https://ananyo009.github.io/spotlight-and-cursor/
